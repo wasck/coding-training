@@ -1,6 +1,8 @@
 {
   "recommendations": [
     "ms-vscode.cpptools",
-    "yzhang.markdown-all-in-one"
+    "yzhang.markdown-all-in-one",
+    "ritwickdey.liveserver",
+    "ms-vsliveshare.vsliveshare"
   ]
 }
